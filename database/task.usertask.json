@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "674aeced5cfa90169e63e59a"
+  },
+  "user_name": "Ram",
+  "date": {
+    "$date": "2020-10-16T00:00:00.000Z"
+  },
+  "attendance": "Present",
+  "task_submission": "pass"
+},
+{
+  "_id": {
+    "$oid": "674aeced5cfa90169e63e59b"
+  },
+  "user_name": "raj",
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "attendance": "absent",
+  "task_submission": "failed"
+},
+{
+  "_id": {
+    "$oid": "674aeced5cfa90169e63e59c"
+  },
+  "user_name": "kumaran",
+  "date": {
+    "$date": "2020-10-29T00:00:00.000Z"
+  },
+  "attendance": "present",
+  "task_submission": "passes"
+},
+{
+  "_id": {
+    "$oid": "674aeced5cfa90169e63e59d"
+  },
+  "user_name": "Renu",
+  "date": {
+    "$date": "2020-11-01T00:00:00.000Z"
+  },
+  "attendance": "absent",
+  "task_submission": "passed"
+},
+{
+  "_id": {
+    "$oid": "674aeced5cfa90169e63e59e"
+  },
+  "user_name": "vijay",
+  "date": {
+    "$date": "2020-11-16T00:00:00.000Z"
+  },
+  "attendance": "present",
+  "task_submission": "failed"
+},
+{
+  "_id": {
+    "$oid": "674aeced5cfa90169e63e59f"
+  },
+  "user_name": "Murugan",
+  "date": {
+    "$date": "2020-11-17T00:00:00.000Z"
+  },
+  "attendance": "present",
+  "task_submission": "passed"
+}]

@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "674ae8335cfa90169e63e582"
+  },
+  "user_name": "Ram",
+  "problems_solved": 98
+},
+{
+  "_id": {
+    "$oid": "674ae8335cfa90169e63e583"
+  },
+  "user_name": "raj",
+  "problems_solved": 18
+},
+{
+  "_id": {
+    "$oid": "674ae8335cfa90169e63e584"
+  },
+  "user_name": "Kumaran",
+  "problems_solved": 48
+},
+{
+  "_id": {
+    "$oid": "674ae8335cfa90169e63e585"
+  },
+  "user_name": "Renu",
+  "problems_solved": 58
+},
+{
+  "_id": {
+    "$oid": "674ae8335cfa90169e63e586"
+  },
+  "user_name": "Dhoni",
+  "problems_solved": 45
+},
+{
+  "_id": {
+    "$oid": "674ae8335cfa90169e63e587"
+  },
+  "user_name": "vijay",
+  "problems_solved": 91
+},
+{
+  "_id": {
+    "$oid": "674ae8335cfa90169e63e588"
+  },
+  "user_name": "Murugan",
+  "problems_solved": 95
+}]

@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "674ae9af5cfa90169e63e589"
+  },
+  "company_name": "Apple",
+  "date": {
+    "$date": "2020-09-25T00:00:00.000Z"
+  },
+  "students_appeared": "RamKumar,Kumaran,raja,antony"
+},
+{
+  "_id": {
+    "$oid": "674ae9af5cfa90169e63e58a"
+  },
+  "company_name": "IBM",
+  "date": {
+    "$date": "2020-10-16T00:00:00.000Z"
+  },
+  "students_appeared": "Rajesh,sanjay,ebin,john,infant"
+},
+{
+  "_id": {
+    "$oid": "674ae9af5cfa90169e63e58b"
+  },
+  "company_name": "HCL",
+  "date": {
+    "$date": "2020-10-27T00:00:00.000Z"
+  },
+  "students_appeared": "Rahman,tammim,ashok,sri,abi"
+},
+{
+  "_id": {
+    "$oid": "674ae9af5cfa90169e63e58c"
+  },
+  "company_name": "zoho",
+  "date": {
+    "$date": "2020-11-15T00:00:00.000Z"
+  },
+  "students_appeared": "Vijay,suvan,felix,"
+},
+{
+  "_id": {
+    "$oid": "674ae9af5cfa90169e63e58d"
+  },
+  "company_name": "guvi",
+  "date": {
+    "$date": "2020-11-25T00:00:00.000Z"
+  },
+  "students_appeared": "jeshwin,jack,rohit,yogesh,"
+}]

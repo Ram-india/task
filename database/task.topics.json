@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "674aec1a5cfa90169e63e594"
+  },
+  "topic": "javascript_functions",
+  "month": "october",
+  "task": "functions"
+},
+{
+  "_id": {
+    "$oid": "674aec1a5cfa90169e63e595"
+  },
+  "topic": "javascript_array",
+  "month": "october",
+  "task": "Array"
+},
+{
+  "_id": {
+    "$oid": "674aec1a5cfa90169e63e596"
+  },
+  "topic": "javascript_MRF",
+  "month": "october",
+  "task": "MRF"
+},
+{
+  "_id": {
+    "$oid": "674aec1a5cfa90169e63e597"
+  },
+  "topic": "Tailwind",
+  "month": "november",
+  "task": "Landing page creation"
+},
+{
+  "_id": {
+    "$oid": "674aec1a5cfa90169e63e598"
+  },
+  "topic": "Tailwind",
+  "month": "november",
+  "task": "Responsive"
+},
+{
+  "_id": {
+    "$oid": "674aec1a5cfa90169e63e599"
+  },
+  "topic": "React",
+  "month": "november",
+  "task": "Hooks"
+}]
